@@ -1,0 +1,15 @@
+{
+  "name": "PlayerlistPlus",
+  "tree": {
+    "$className": "DataModel",
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "PlayerlistPlus": {
+          "$path": "src/PlayerlistPlus.client.lua"
+        }
+      }
+    }
+  }
+}
