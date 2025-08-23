@@ -1,0 +1,1 @@
+return require("./_Index/elttob_fusion@3.0.0/Fusion")
